@@ -1,4 +1,4 @@
-# highschool-science-project
+# Ion Bonding
 이온결합 프로그램
 
 ## 개발 목표
